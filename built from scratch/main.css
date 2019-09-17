@@ -1,0 +1,56 @@
+body{
+    
+    background:url(img/background.png)
+    
+}
+h1{
+    
+    margin:0;
+    padding:0;
+text-align: center;
+}
+
+
+header nav ul{
+    padding: 0 30px;
+    margin:0px;
+  list-style:none;
+float:none;
+   display:inline-flex;
+
+}
+
+header nav ul li a {
+     padding:0 52px;
+    line-height:0px;
+   list-style:none;
+ text-align:center;
+     border-spacing: inherit;
+
+    color:skyblue;
+
+}
+table{
+    margin:0px;
+    background-color:#501600;
+vertical-align: middle;
+    border-style: solid;
+    border-color:gold;
+}
+th{
+    
+padding: 26px 107px;
+    text-align:center;
+    border-top-style:dashed;
+    border-color:gold;
+    color:skyblue;
+}
+p{
+    padding:20px;
+    text-align:center;
+    
+}
+div{
+    
+    padding:0 20px;
+}
